@@ -2,7 +2,7 @@
 
 Official APK downloads for adults aged 18 and over. Application source remains private. Download information and draft notices: https://peerprism-drab.vercel.app/
 
-This is experimental software. Legal and independent security reviews are pending. Do not use it for emergencies or rely on it as your only copy of important information. Account recovery is unavailable. Calls are not configured in the initial public beta; messaging uses the encrypted relay. Translation is experimental and language models require downloads.
+This is experimental software. Legal and independent security reviews are pending. Do not use it for emergencies or rely on it as your only copy of important information. Account recovery is unavailable. Private voice calls use expiring relay credentials from an authenticated Supabase endpoint. Permanent provider keys stay server-side. The service shares a limited free Xirsys TURN allowance (500 MB/month after trial); calls stop at quota, while messaging retains its encrypted relay. Translation is experimental and language models require downloads.
 
 Install only the signed APK attached to an official release here. The release notes provide its SHA-256 checksum and signing certificate fingerprint. Keep Android security protections enabled. There is no public iPhone/iPad download yet.
 
